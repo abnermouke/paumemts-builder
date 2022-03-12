@@ -5,7 +5,7 @@
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "Abnermouke\\PaymentsBuilder\\": "src/"
+            "Abnermouke\\PaymentsBuilder\\": "src"
         }
     },
     "authors": [
