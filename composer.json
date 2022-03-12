@@ -1,0 +1,20 @@
+{
+    "name": "abnermouke/payments-builder",
+    "description": "PaymentsBuilder是一款高效的支付构建工具包，集成Alipay、Wechat等常用支付方式，支付也可以这么丝滑！",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Abnermouke\\PaymentsBuilder\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Abnermouke",
+            "email": "abnermouke@outlook.com"
+        }
+    ],
+    "require": {
+        "abnermouke/easy-builder": "*"
+    }
+}
